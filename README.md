@@ -80,9 +80,8 @@ sns.boxplot(df['temp'])
 ```
 sns.boxenplot(df['temp'])
 ```
-![image](https://github.com/user-attachments/assets/10e96f71-8d01-48d0-9c62-4b003907d2b8)# Skill_assessment_2
+![image](https://github.com/user-attachments/assets/10e96f71-8d01-48d0-9c62-4b003907d2b8)# 
 
-![image](https://github.com/user-attachments/assets/b2e4085e-5e5f-415b-b228-2b7e608340c4)
 ```
 sns.countplot(data=df,x='status')
 ```
